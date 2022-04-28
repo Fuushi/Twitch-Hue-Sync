@@ -1,0 +1,20 @@
+This bot watches your twitch chat and syncs your Philips Hue lights in accordance to chat's wishes
+to get started, open the main file in your IDE and set your OATH, nickname, and channel names, then run.
+
+Commands,
+ !on
+ !off
+ !sat <value>
+ !br <value>
+ !red
+ !yellow
+ !blue
+ !purple
+ !pink
+ !green
+ !orange
+ !white
+ !rainbow
+ !strobe
+ !press (presses a button on your keyboard as specified by chat
+ !stop (allows chat to disable a key on your keyboard for a few seconds)
